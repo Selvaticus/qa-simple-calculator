@@ -1,0 +1,23 @@
+{
+  "name": "qa-simple-calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator to be used for QA practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Selvaticus/qa-simple-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Selvaticus/qa-simple-calculator/issues"
+  },
+  "homepage": "https://github.com/Selvaticus/qa-simple-calculator#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
