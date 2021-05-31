@@ -25,6 +25,7 @@ class Calculator {
     /*
       Divides the first number by the second and returns the result
     */
+    if (divisor == 0) return null;
     return dividend / divisor;
   }
 
